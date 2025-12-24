@@ -6,7 +6,7 @@ I am a full stack developer with a B.S. in Computer Science from California Stat
 ## 🚀 What I'm Up To
 - 💻 Building Next.js applications with PostgreSQL
 
-Check out my [coding portfolio!](https://laxnat.github.io/axlallantan-portfolio)
+Check out my [coding portfolio!]((https://axl-allan-tan.vercel.app))
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axl-allan-tan/)
